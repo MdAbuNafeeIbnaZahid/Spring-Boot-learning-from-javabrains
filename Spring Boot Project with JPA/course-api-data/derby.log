@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jul 21 22:06:30 BDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0164-bd97-a8ea-0000077f96a8 
+on database directory memory:/home/nafee/Desktop/Spring-Boot-learning-from-javabrains/Spring Boot Project with JPA/course-api-data/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@255316f2 
+Loaded from file:/home/nafee/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=10.0.2+13
+user.dir=/home/nafee/Desktop/Spring-Boot-learning-from-javabrains/Spring Boot Project with JPA/course-api-data
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-24-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
